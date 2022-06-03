@@ -1,6 +1,6 @@
 # Adote um Pet
 
-Imeplentação feita em Go da API Adote um Pet desenvolida no workshop Multi-stack da TreinaWeb.
+Implementação feita em Go da API Adote um Pet desenvolida no workshop Multi-stack da TreinaWeb.
 
 ## Requisitos
 
